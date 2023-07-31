@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a Geospatial Data Engineer
 - 🗺️📍 I’m currently working on developing Geo Applications
 - 🤝 I’m looking to collaborate with others
-- 🥅 2023 Goals: Learn and contribute to Opensource projects
+- 🥅 2023 Goals: Contribute to Opensource projects
 
 ## &#x270d; Blogs
 Apart from coding, I also maintain a blog - you can find my articles:
